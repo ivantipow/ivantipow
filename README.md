@@ -45,12 +45,12 @@ Familiar with:
 🔎 I'm currently studying Deep Learning, doing research in chemical physics and quantum computing.
 
 
-## 📈 GitHub Stats
-
-![Ivan Antipov GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivantipow&count_private=true&hide=contribs,issues,prs&show_icons=true&theme=dark&bg_color=30,0f0f0f,066052&title_color=fff&text_color=fff&icon_color=cbdea6)
-
-
 ## 📫 How to reach me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0f0f0f?style=flat-square&logo=telegram)](https://t.me/ivan_e2)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-0f0f0f?style=flat-square&logo=kaggle)](https://www.kaggle.com/ivantipov)
+
+## 📈 GitHub Stats
+
+![Ivan Antipov GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivantipow&count_private=true&hide=contribs,issues,prs&show_icons=true&theme=dark&bg_color=30,0f0f0f,066052&title_color=fff&text_color=fff&icon_color=cbdea6)
+
