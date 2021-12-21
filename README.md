@@ -17,9 +17,24 @@ Here are some ideas to get you started:
 
 I'm a physicist who trains AI and an ML researcher who knows quantum theory.
 
-Proficient: Python (PyTorch, xgboost, scikit-learn, pandas, numpy, scipy, etc.), Wolfram Language, MATLAB, LaTeX
+## 🧰 Languages and Tools
+Proficient: 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
+![scikit-learn](https://img.shields.io/badge/-ScikitLearn-black?style=flat-square&logo=scikit-learn)
+![pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![numpy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
+![scipy](https://img.shields.io/badge/-SciPy-black?style=flat-square&logo=scipy)
+![xgboost](https://img.shields.io/badge/-XGBoost-black?style=flat-square&logo=xgboost)
+![wolfram](https://img.shields.io/badge/-WolframLanguage-black?style=flat-square&logo=Wolfram-Mathematica)
+![matlab](https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=matlab)
+![latex](https://img.shields.io/badge/-LaTeX-black?style=flat-square&logo=latex)
 
-Familiar with: C/C++, Java, SQL (PostgreSQL)
+Familiar with: 
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
 
 ## 😄 About me 
 
