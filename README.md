@@ -17,9 +17,18 @@ Here are some ideas to get you started:
 
 I'm a physicist who trains AI and an ML researcher who knows quantum theory.
 
-Proficient: Python (PyTorch, xgboost, scikit-learn, pandas, numpy, scipy, etc.), Wolfram Language, MATLAB, LaTeX.
+Proficient: Python (PyTorch, xgboost, scikit-learn, pandas, numpy, scipy, etc.), Wolfram Language, MATLAB, LaTeX
 
-Familiar with: C/C++, Java, SQL (PostgreSQL).
+Familiar with: C/C++, Java, SQL (PostgreSQL)
+
+## 😄 About me 
+
+✌️ My name is Ivan, I am 21 years old. I've been doing programming and physics for about 6 years. 
+
+🎓 I'm currently studying for a master's degree in Physics.
+
+🔎 I'm currently studying Deep Learning, doing research in chemical physics and quantum computing.
+
 
 ## 📈 GitHub Stats
 
