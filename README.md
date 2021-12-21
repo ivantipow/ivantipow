@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 🙋‍♂️ Welcome ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ivantipow) 
-I am a physicist who trains artificial intelligence and an ML researcher who knows quantum theory.
+I'm a physicist who trains AI and an ML researcher who knows quantum theory.
 ## 📈 GitHub Stats
 
 ![Ivan Antipov GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivantipow&count_private=true&hide=contribs&show_icons=true&theme=tokyonight)
