@@ -54,4 +54,4 @@ Familiar with:
 
 ## 📫 How to reach me
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/ivan_e2)
-[![Gmail](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail)](mailto:antipov.ivan.f@gmail.com)
+<a href="mailto:antipov.ivan.f@gmail.com">![Gmail](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail)</a>
