@@ -51,7 +51,7 @@ Familiar with:
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivantipow&count_private=true&hide=tsql&langs_count=7&theme=tokyonight&layout=compact)
 -->
-
+<!--
 ## 📫 How to reach me
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/ivan_e2)
-<a href="mailto:antipov.ivan.f@gmail.com">![Gmail](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail)</a>
+-->
