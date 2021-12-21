@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 I'm a physicist who trains AI and ML researcher who knows quantum theory.
 
-## 🧰 Languages and Tools
+## 🛠 Languages & Tools
+
 Proficient: 
 ![Python](https://img.shields.io/badge/-Python-0f0f0f?style=flat-square&logo=python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-0f0f0f?style=flat-square&logo=pytorch)
@@ -45,10 +46,10 @@ Familiar with:
 🔎 I'm currently studying Deep Learning, doing research in chemical physics and quantum computing.
 
 
-## 📫 How to reach me
+## 🤝 Connect with me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-0f0f0f?style=flat-square&logo=telegram)](https://t.me/ivan_e2)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-0f0f0f?style=flat-square&logo=kaggle)](https://www.kaggle.com/ivantipov)
+[![Telegram](https://img.shields.io/badge/-Telegram-0f0f0f?style=for-the-badge&logo=telegram)](https://t.me/ivan_e2)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-0f0f0f?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/ivantipov)
 
 ## 📈 GitHub Stats
 
