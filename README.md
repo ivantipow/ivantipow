@@ -23,7 +23,7 @@ Familiar with: C/C++, Java, SQL (PostgreSQL)
 
 ## 😄 About me 
 
-✌️ My name is Ivan, I am 21 years old. I've been doing programming and physics for about 6 years. 
+✌️ My name is Ivan, I am 21 years old. I've been doing programming and physics for about 5 years. 
 
 🎓 I'm currently studying for a master's degree in Physics.
 
