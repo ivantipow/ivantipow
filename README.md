@@ -19,22 +19,22 @@ I'm a physicist who trains AI and ML researcher who knows quantum theory.
 
 ## 🧰 Languages and Tools
 Proficient: 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
-![scikit-learn](https://img.shields.io/badge/-ScikitLearn-black?style=flat-square&logo=scikit-learn)
-![pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
-![numpy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
-![scipy](https://img.shields.io/badge/-SciPy-black?style=flat-square&logo=scipy)
-![xgboost](https://img.shields.io/badge/-XGBoost-black?style=flat-square&logo=xgboost)
-![wolfram](https://img.shields.io/badge/-WolframLanguage-black?style=flat-square&logo=Wolfram-Mathematica)
-![matlab](https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=matlab)
-![latex](https://img.shields.io/badge/-LaTeX-black?style=flat-square&logo=latex)
+![Python](https://img.shields.io/badge/-Python-0f0f0f?style=flat-square&logo=python)
+![PyTorch](https://img.shields.io/badge/-PyTorch-0f0f0f?style=flat-square&logo=pytorch)
+![scikit-learn](https://img.shields.io/badge/-ScikitLearn-0f0f0f?style=flat-square&logo=scikit-learn)
+![pandas](https://img.shields.io/badge/-Pandas-0f0f0f?style=flat-square&logo=pandas)
+![numpy](https://img.shields.io/badge/-NumPy-0f0f0f?style=flat-square&logo=numpy)
+![scipy](https://img.shields.io/badge/-SciPy-0f0f0f?style=flat-square&logo=scipy)
+![xgboost](https://img.shields.io/badge/-XGBoost-0f0f0f?style=flat-square&logo=xgboost)
+![wolfram](https://img.shields.io/badge/-WolframLanguage-0f0f0f?style=flat-square&logo=Wolfram-Mathematica)
+![matlab](https://img.shields.io/badge/-MATLAB-0f0f0f?style=flat-square&logo=matlab)
+![latex](https://img.shields.io/badge/-LaTeX-0f0f0f?style=flat-square&logo=latex)
 
 Familiar with: 
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+![C](https://img.shields.io/badge/-C-0f0f0f?style=flat-square&logo=C)
+![C++](https://img.shields.io/badge/-C++-0f0f0f?style=flat-square&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-0f0f0f?style=flat-square&logo=Java)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0f0f0f?style=flat-square&logo=PostgreSQL)
 
 ## 😄 About me 
 
@@ -47,11 +47,10 @@ Familiar with:
 
 ## 📈 GitHub Stats
 
-![Ivan Antipov GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivantipow&count_private=true&hide=contribs,issues,prs&show_icons=true&theme=dark)
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivantipow&count_private=true&hide=tsql&langs_count=7&theme=tokyonight&layout=compact)
--->
-<!--
+![Ivan Antipov GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivantipow&count_private=true&hide=contribs,issues,prs&show_icons=true&theme=dark&bg_color=30,0f0f0f,066052&title_color=fff&text_color=fff&icon_color=cbdea6)
+
+
 ## 📫 How to reach me
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/ivan_e2)
--->
+
+[![Telegram](https://img.shields.io/badge/-Telegram-0f0f0f?style=flat-square&logo=telegram)](https://t.me/ivan_e2)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-0f0f0f?style=flat-square&logo=kaggle)](https://www.kaggle.com/ivantipov)
