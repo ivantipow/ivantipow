@@ -37,18 +37,18 @@ Familiar with:
 ![Java](https://img.shields.io/badge/-Java-0f0f0f?style=flat-square&logo=Java)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0f0f0f?style=flat-square&logo=PostgreSQL)
 
-## 😄 About me 
+## 👨‍💻 About me 
 
 ✌️ My name is Ivan, I am 21 years old. I've been doing programming and physics for about 5 years. 
 
 🎓 I'm currently studying for a master's degree in Physics.
 
-🔎 I'm currently studying Deep Learning, doing research in chemical physics and quantum computing.
+🔎 I'm presently studying Deep Learning, doing research in chemical physics and quantum computing.
 
 
 ## 🤝 Connect with me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-0f0f0f?style=for-the-badge&logo=telegram)](https://t.me/ivan_e2)
+[![Telegram](https://img.shields.io/badge/-Telegram-0f0f0f?style=for-the-badge&logo=telegram)](https://t.me/ivantipow)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-0f0f0f?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/ivantipov)
 
 ## 📈 GitHub Stats
