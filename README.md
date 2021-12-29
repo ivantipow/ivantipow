@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🙋‍♂️ Welcome ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ivantipow) 
+# 🙋‍♂️ Welcome <!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=ivantipow) -->
 
 I'm a physicist who trains AI and ML researcher who knows quantum theory.
 
