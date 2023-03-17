@@ -59,6 +59,18 @@ Familiar with:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0f0f0f?style=for-the-badge&logo=telegram)](https://t.me/ivantipow)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-0f0f0f?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/ivantipov)
+
+
+### 🛠 Some projects
+
+| Name | Description | Year | Lang Repo |
+|------|-------------|------|------|
+| [Face Recognition](https://github.com/ivantipow/Face-Recognition) (inProgress) | Implementation of a face recognition system | 2022 | Rus |
+| [Autoencoders](https://github.com/ivantipow/Autoencoders) | Implementation of different autoencoders and their practical application | 2021 | Rus |
+| [Semantic-segmentation](https://github.com/ivantipow/Semantic-segmentation) | Semantic segmentation of affected skin areas | 2021 | Rus |
+| [GAN](https://github.com/ivantipow/GAN) | PyTorch implementations of GAN | 2021 | Rus |
+| [Simpsons-Classification](https://github.com/ivantipow/Simpsons-Classification) | The decision of the educational Kaggle competition for the classification of the characters of the cartoon The Simpsons | 2021 | Rus |
+
 <!--
 ### 📈 GitHub Stats
 
