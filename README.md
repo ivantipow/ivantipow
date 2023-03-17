@@ -66,9 +66,9 @@ Familiar with:
 | Name | Description | Year | Lang Repo |
 |------|-------------|------|------|
 | [Face Recognition](https://github.com/ivantipow/Face-Recognition) (inProgress) | Implementation of a face recognition system | 2022 | Rus |
-| [Autoencoders](https://github.com/ivantipow/Autoencoders) | Implementation of different autoencoders and their practical application | 2021 | Rus |
+| [Autoencoders](https://github.com/ivantipow/Autoencoders) | Implementation of different autoencoders and their practical application | 2022 | Rus |
+| [GAN](https://github.com/ivantipow/GAN) | PyTorch implementations of GAN for face generation| 2022 | Rus |
 | [Semantic-segmentation](https://github.com/ivantipow/Semantic-segmentation) | Semantic segmentation of affected skin areas | 2021 | Rus |
-| [GAN](https://github.com/ivantipow/GAN) | PyTorch implementations of GAN for face generation| 2021 | Rus |
 | [Simpsons-Classification](https://github.com/ivantipow/Simpsons-Classification) | The decision of the educational Kaggle competition for the classification of the characters of the cartoon The Simpsons | 2021 | Rus |
 
 <!--
