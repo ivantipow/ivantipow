@@ -65,7 +65,7 @@ Familiar with:
 
 | Name | Description | Year | Lang Repo |
 |------|-------------|------|------|
-| [Face Recognition](https://github.com/ivantipow/Face-Recognition) (inProgress) | Implementation of a face recognition system | 2022 | Rus |
+| [Face Recognition](https://github.com/ivantipow/Face-Recognition) | Implementation of a face recognition system | 2022 | Rus |
 | [Autoencoders](https://github.com/ivantipow/Autoencoders) | Implementation of different autoencoders and their practical application | 2022 | Rus |
 | [GAN](https://github.com/ivantipow/GAN) | PyTorch implementations of GAN for face generation| 2022 | Rus |
 | [Semantic-segmentation](https://github.com/ivantipow/Semantic-segmentation) | Semantic segmentation of affected skin areas | 2021 | Rus |
