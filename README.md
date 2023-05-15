@@ -58,6 +58,7 @@ Familiar with:
 ### 🤝 Connect with me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0f0f0f?style=for-the-badge&logo=telegram)](https://t.me/ivantipow)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivantipow/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-0f0f0f?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/ivantipov)
 
 
