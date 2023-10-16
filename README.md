@@ -23,6 +23,7 @@ Work:
 - Theoretical Physicist @ [VolSU](https://volsu.ru/other/eng/)
 
 Edu:
+- PhD in Physics, Volgograd State University
 - M.Sc. in Physics, Volgograd State University (2023)
 - B.Sc. in Physics, Volgograd State University and Eurasian National University (2021)
 <!--
